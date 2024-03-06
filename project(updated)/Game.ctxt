@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=
+comment1.target=void\ startSinglePlayerGame()
+comment10.params=message
+comment10.target=void\ showMessage(java.lang.String)
+comment11.params=message
+comment11.target=void\ showErrorMessage(java.lang.String)
+comment2.params=
+comment2.target=void\ startMultiPlayerGame()
+comment3.params=
+comment3.target=void\ registerUser()
+comment4.params=
+comment4.target=void\ loginUser()
+comment5.params=
+comment5.target=void\ viewScores()
+comment6.params=result
+comment6.target=void\ updateScore(int)
+comment7.params=choice1\ choice2
+comment7.target=int\ simulateGameResult(java.lang.String,\ java.lang.String)
+comment8.params=simulateGameResult
+comment8.target=java.lang.String\ getResultMessage(int)
+comment9.params=level\ playerChoice
+comment9.target=java.lang.String\ getComputerChoice(int,\ java.lang.String)
+numComments=12
